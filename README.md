@@ -1,3 +1,3 @@
 # hello-world
 
-There is the first commit in me life.
+There is the first commit in my life.
