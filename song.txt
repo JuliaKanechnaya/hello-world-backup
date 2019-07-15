@@ -1,2 +1,5 @@
 hello world
 I'm so happy to see you
+
+This is the best training ever
+And we are the best automation testers ever!!!!
