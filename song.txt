@@ -16,3 +16,5 @@ one more commit in the feature branch
 non-fastforward merge
 
 conflicts solving
+
+changes from feature branch
