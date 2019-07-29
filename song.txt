@@ -14,3 +14,5 @@ we continue to write it in the feature brach
 one more commit in the feature branch
 
 non-fastforward merge
+
+conflicts solving
